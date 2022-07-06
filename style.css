@@ -1,0 +1,143 @@
+body {
+    font-family: 'Gentium Book Plus', serif;
+    font-family: 'Inter', sans-serif;
+    margin: 0;
+}
+
+.bg-img {
+    background-image: url(./images/donation7.jpg);
+    background-repeat: no-repeat;
+    text-align: center;
+    color: white;
+    width: auto;
+    height: 669px;
+    padding: 40px 80px;
+
+}
+
+.bg-img h1 {
+    font-size: 60px;
+}
+
+.bg-img p {
+    font-size: 25px;
+    font-weight: 700;
+}
+
+.button {
+    color: white;
+    background-color: tomato;
+    text-decoration: none;
+    border-radius: 10px;
+    padding: 10px 40px;
+    margin-top: 100px;
+}
+
+.amount {
+    padding-top: 30px;
+}
+
+.donate-today {
+    text-align: center;
+
+}
+
+.donate-today h1 {
+    font-size: 50px;
+}
+
+.card {
+    display: flex;
+    justify-content: center;
+    padding: 10px 0px;
+}
+
+.card h3 {
+    padding: 40px 50px;
+    background-color: beige;
+    margin: 30px;
+    font-size: 30px;
+    border-radius: 10px;
+}
+
+.hr-tag {
+    width: 600px;
+
+}
+
+.btn {
+    margin-top: 40px;
+}
+
+.card-style {
+    display: flex;
+
+    padding: 20px 40px;
+}
+
+.style-card {
+    width: 33%;
+
+    margin: 15px;
+
+    padding: 25px;
+    text-align: justify;
+    border-radius: 15px;
+}
+
+#first {
+    background-color: beige;
+}
+
+#second {
+    background-color: aqua;
+}
+
+#third {
+    background-color: blueviolet;
+}
+
+.three {
+    padding-top: 40px;
+}
+
+.about {
+    color: tomato;
+}
+
+.sec-4 {
+    display: flex;
+    padding-top: 40px;
+}
+
+.half-width {
+    width: 50%;
+    padding-left: 55px;
+}
+
+.half-width2 {
+    width: 50%;
+    padding-left: 25px;
+    border-radius: 20px;
+}
+
+#email-box {
+    width: 250px;
+    height: 30px;
+
+}
+
+.footer {
+    background-color: black;
+    margin-top: 100px;
+}
+
+.donate-today h4 {
+    color: red;
+    padding-top: 30px;
+}
+
+.footer-peg {
+    color: white;
+    padding-bottom: 30px;
+}
